@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sunil Kumar S  
+# 👋 Hi, I'm Sunil Kumar S  
 📊 **Aspiring Data Analyst | Data Science Enthusiast**  
 
 I'm passionate about transforming raw data into actionable insights and meaningful stories. Currently focusing on building my data analytics skills and exploring the exciting world of data science.  
@@ -45,8 +45,8 @@ Here are some projects that highlight my skills:
 ## 📫 Let's Connect
 
 <!-- - **Portfolio**: [yourportfolio.com](https://yourportfolio.com)-->  
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **Email**: [Contact Me](mailto:youremail@example.com)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sunilkumars7/)  
+- **Email**: [Contact Me](mailto:sunilkumarsja@gmail.com)  
 
 I'm always open to connecting with like-minded individuals, collaborating on projects, and exploring opportunities in the field of **data analytics** and **data science**.
 
